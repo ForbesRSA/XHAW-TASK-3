@@ -16,6 +16,6 @@ Stack: HTML5, CSS3,JavaScript .
 3. After a minute the site is live at https://<username>.github.io/<repository-name>/
 
 ## Group Members
--Lethabo Mmako
+- Lethabo Mmako
 - Blessing Lethwane
 - Ramosoane Katlego Madileng
