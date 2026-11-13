@@ -10,15 +10,10 @@ Stack: HTML5, CSS3,JavaScript .
 - Tables: package comparison table (packages.html) and quotation table (calculator.html)
 - Error handling: form validation, quantity limits, empty-quote message, package-not-found, 404 page, script error banner
 
-## Publish on GitHub Pages
-1. Put these files at the root of the repository (or in a /docs folder).
-2. Repo > Settings > Pages > Source: "Deploy from a branch" > Branch: main > Folder: / (root) > Save.
-3. After a minute the site is live at https://<username>.github.io/<repository-name>/
+## Live Site
+ https://forbesrsa.github.io/XHAW-TASK-3/
 
 ## Group Members
 - Lethabo Mmako
 - Blessing Lethwane
 - Ramosoane Katlego Madileng
-
-## Live Site
-https://forbesrsa.github.io/XHAW-TASK-3/
