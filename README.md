@@ -19,3 +19,6 @@ Stack: HTML5, CSS3,JavaScript .
 - Lethabo Mmako
 - Blessing Lethwane
 - Ramosoane Katlego Madileng
+
+## Live Site
+https://forbesrsa.github.io/XHAW-TASK-3/
