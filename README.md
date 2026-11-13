@@ -13,6 +13,11 @@ Stack: HTML5, CSS3,JavaScript .
 ## Live Site
  https://forbesrsa.github.io/XHAW-TASK-3/
 
+ ## Figma Link
+ https://www.figma.com/design/V3tkKBkD1ZScdpti0mc7CK/Untitled?node-id=0-1&p=f&t=gBGNJC0Ka73QzPZ6-0
+
+## Youtube Link
+
 ## Group Members
 - Lethabo Mmako
 - Blessing Lethwane
